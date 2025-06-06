@@ -1,0 +1,120 @@
+.praroz{
+    display:inline-block;
+    color:orange;
+}
+.home,ul,li{
+display:inline-block;
+margin-left:70px;
+color:white;
+cursor:pointer;
+}
+li:hover{
+     color: #D65076;
+}
+
+.searchbox{
+    background-color:transparent;
+    margin-left:60px;
+    color:white;
+}
+.search{
+    display:inline-block;
+}
+.navbar{
+    margin-left:100px;
+}
+.btn1{
+    background-color:orange;
+    color:white;
+   height:25px;
+}
+.About{
+    margin-left:100px;
+    margin-top:100px;
+    display:inline-block;
+
+}
+.development{
+    color:orange;
+
+}
+.joinus{
+    background-color:orange;
+    color:black;
+}
+.btn2{
+    margin-left:100px;
+    display:inline;
+  
+}
+
+.login{
+    display:inline-block;
+    margin-left:600px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+   width:220px;
+   padding:10px;
+   border-radius:10px;
+   background-color:black;
+box-shadow: 0 4px 20px orangered;
+ 
+
+
+}
+body{
+    background-image:url(darknature.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+.searchbox::placeholder{
+    color:white;
+}
+.web{
+    color:white;
+}
+.course{
+    color:white;
+}
+.para{
+    color:white;
+}
+.btn3{
+    color:orange;
+    border-radius:4px;
+    height:30px;
+    width:120px;
+}
+.btn4{
+    background-color:orange;
+    color:black;
+}
+.signup{
+    color:white;
+}
+.signupcolor{
+    color:orange;
+    text-decoration:none;
+}
+.emal{
+    background-color:black;
+    color:white;
+}
+.emal::placeholder{
+    color:white;
+}
+.password{
+    background-color:black;
+    color:white;
+
+}
+.password::placeholder{
+    color:white;
+}
+
+.submit{
+    background-color:orange;
+    color:black;
+}
